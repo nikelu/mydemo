@@ -1,0 +1,29 @@
+page-login {
+    ion-content {
+        background-size: cover;
+        background-position: center;
+        background-repeat: no-repeat;
+        border-color: transparent;
+      }
+    .logo {
+        width: 25%;
+        height: 25%;
+        margin: 3rem auto 0px auto;
+        
+      }
+      .title{ color: #ffffff; font-weight: bold; margin-bottom:20%; font-size: 2rem;}
+      .no-border {
+        border-bottom: 0 !important;
+        box-shadow: none !important;
+      }
+      .button {
+        border-radius: 13px;
+        height: 2.6em;
+        font-size: 1.6rem;
+        color: #ffffff;
+        background-color: #63aeff;
+        margin: 0.4rem 0.2rem;
+        padding: 0 1em;letter-spacing: 5px;
+      }
+    
+}
